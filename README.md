@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C programming: dereferencing a NULL pointer.  The `bug.c` file contains the erroneous code, while `bugSolution.c` provides a corrected version.  This example highlights the importance of robust error handling and pointer management in C.
